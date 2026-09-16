@@ -15,34 +15,32 @@
   <img src="https://komarev.com/ghpvc/?username=SyedAliHassan1272&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
----
+<br>
 
-### ✨ About Me
+## 🧑‍💻 About Me
 
-```
-🎓 Computer Science Graduate
-💼 Currently working as a Software Developer, building backend applications
-🧠 Background in Machine Learning, Deep Learning & Data Analysis
-🌱 Constantly exploring new tools, models, and techniques in AI
-🤝 Open to internships & full-time roles in AI/ML and Software Development
-📍 Based in Lahore, Pakistan
-```
+- 🎓 Computer Science Graduate
+- 💼 Currently working as a **Software Developer**, building backend applications
+- 🧠 Background in **Machine Learning, Deep Learning & Data Analysis**
+- 🌱 Constantly exploring new tools, models, and techniques in AI
+- 🤝 Open to internships & full-time roles in **AI/ML and Software Development**
+- 📍 Based in Lahore, Pakistan
 
----
+<br>
 
-### 🧭 What I Do
+## 🧭 What I Do
 
 | Area | Focus |
-|------|-------|
+|:---|:---|
 | 🩺 **AI in Healthcare** | Building intelligent systems for medical data & diagnostics |
 | 👁️ **Computer Vision** | Image classification & deep learning with CNNs |
 | 💬 **NLP & Chatbots** | Language models, embeddings & conversational AI |
 | 📊 **Data Analysis** | Cleaning, exploring & visualizing real-world datasets |
 | 🖥️ **Backend Development** | Foundational work with .NET (C#) applications |
 
----
+<br>
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -57,26 +55,26 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-**Core Skills:** Data Cleaning • EDA • Model Building & Evaluation • Deep Learning (CNN) • NLP • Data Visualization • Dashboards
+<p align="center"><b>Core Skills:</b> Data Cleaning • EDA • Model Building & Evaluation • Deep Learning (CNN) • NLP • Data Visualization • Dashboards</p>
 
----
+<br>
 
-### 💼 Experience Snapshot
+## 💼 Experience Snapshot
 
-```
-🏢 Software Development Intern — working on .NET (C#) backend applications
-🤖 AI Engineer Intern — data preprocessing, ML model training & evaluation
-🐍 Python Intern — scripting, logic building & OOP fundamentals
-```
+- 🏢 **Software Development Intern** — working on .NET (C#) backend applications
+- 🤖 **AI Engineer Intern** — data preprocessing, ML model training & evaluation
+- 🐍 **Python Intern** — scripting, logic building & OOP fundamentals
 
----
+<br>
 
-### 📜 Certifications & Achievements
+## 📜 Certifications & Achievements
 
 - 🏅 Certificate in Artificial Intelligence
 - 🏅 Python Internship Certificate
 - 🏅 Python, Data Analysis & Machine Learning Bootcamp Certifications
 - 🎤 Conducted Python workshops for student societies
+
+<br>
 
 ---
 
