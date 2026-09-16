@@ -12,7 +12,7 @@
   <a href="mailto:syedalihassann081@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SyedAliHassan1272&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 ---
