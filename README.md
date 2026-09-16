@@ -12,18 +12,33 @@
   <a href="mailto:syedalihassann081@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 ---
 
 ### ✨ About Me
 
-- 🎓 Computer Science graduate, passionate about **Artificial Intelligence & Machine Learning**
-- 💼 Currently working as a **Software Developer**, building real-world backend applications
-- 🧠 Experienced in **Machine Learning, Deep Learning, and Data Analysis**
-- 🌱 Constantly exploring new tools and techniques in AI
-- 🤝 Open to internships and full-time opportunities in AI/ML and Software Development
-- ⚡ Fun fact: I enjoy turning messy data into meaningful insights
+```
+🎓 Computer Science Graduate
+💼 Currently working as a Software Developer, building backend applications
+🧠 Background in Machine Learning, Deep Learning & Data Analysis
+🌱 Constantly exploring new tools, models, and techniques in AI
+🤝 Open to internships & full-time roles in AI/ML and Software Development
+📍 Based in Lahore, Pakistan
+```
+
+---
+
+### 🧭 What I Do
+
+| Area | Focus |
+|------|-------|
+| 🩺 **AI in Healthcare** | Building intelligent systems for medical data & diagnostics |
+| 👁️ **Computer Vision** | Image classification & deep learning with CNNs |
+| 💬 **NLP & Chatbots** | Language models, embeddings & conversational AI |
+| 📊 **Data Analysis** | Cleaning, exploring & visualizing real-world datasets |
+| 🖥️ **Backend Development** | Foundational work with .NET (C#) applications |
 
 ---
 
@@ -42,16 +57,26 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
+**Core Skills:** Data Cleaning • EDA • Model Building & Evaluation • Deep Learning (CNN) • NLP • Data Visualization • Dashboards
+
 ---
 
-### 💡 What I Work With
+### 💼 Experience Snapshot
 
-🔹 Data Cleaning & Exploratory Data Analysis (EDA)
-🔹 Machine Learning Model Building & Evaluation
-🔹 Deep Learning (CNNs) & Computer Vision
-🔹 Natural Language Processing (NLP)
-🔹 Interactive Dashboards & Data Visualization
-🔹 Backend Development Fundamentals
+```
+🏢 Software Development Intern — working on .NET (C#) backend applications
+🤖 AI Engineer Intern — data preprocessing, ML model training & evaluation
+🐍 Python Intern — scripting, logic building & OOP fundamentals
+```
+
+---
+
+### 📜 Certifications & Achievements
+
+- 🏅 Certificate in Artificial Intelligence
+- 🏅 Python Internship Certificate
+- 🏅 Python, Data Analysis & Machine Learning Bootcamp Certifications
+- 🎤 Conducted Python workshops for student societies
 
 ---
 
