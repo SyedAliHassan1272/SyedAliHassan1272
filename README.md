@@ -80,19 +80,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedAliHassan1272&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAliHassan1272&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAliHassan1272&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   💬 <i>"Learning never exhausts the mind — it only fuels it."</i>
 </p>
