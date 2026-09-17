@@ -1,5 +1,5 @@
-<h1 align="center">Hi There, I'm Sayed Ali Hassan Naqvi 👋</h1>
-<h3 align="center">🤖 AI & Machine Learning Enthusiast | 💻 Software Developer | 🐍 Python Developer</h3>
+<h1 align="center">Hi there, I'm Sayed Ali Hassan Naqvi 👋</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Software Developer | Python Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Building+AI-Powered+Applications;Turning+Data+into+Insights;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=SyedAliHassan1272&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
-<br>
+---
 
 ## 🧑‍💻 About Me
 
@@ -26,7 +26,7 @@
 - 🤝 Open to internships & full-time roles in **AI/ML and Software Development**
 - 📍 Based in Lahore, Pakistan
 
-<br>
+---
 
 ## 🧭 What I Do
 
@@ -38,34 +38,54 @@
 | 📊 **Data Analysis** | Cleaning, exploring & visualizing real-world datasets |
 | 🖥️ **Backend Development** | Foundational work with .NET (C#) applications |
 
-<br>
+---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,cs,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 <p align="center"><b>Core Skills:</b> Data Cleaning • EDA • Model Building & Evaluation • Deep Learning (CNN) • NLP • Data Visualization • Dashboards</p>
 
-<br>
+---
 
-## 💼 Experience Snapshot
+## 💼 Experience
 
-- 🏢 **Software Development Intern** — working on .NET (C#) backend applications
-- 🤖 **AI Engineer Intern** — data preprocessing, ML model training & evaluation
-- 🐍 **Python Intern** — scripting, logic building & OOP fundamentals
+**Software Development Intern**
+Working on .NET (C#) backend applications, contributing to real-world enterprise software.
 
-<br>
+**AI Engineer Intern**
+Handled data preprocessing, model training, and evaluation for applied ML projects.
+
+**Python Intern**
+Built scripting solutions and strengthened core OOP and programming fundamentals.
+
+---
+
+## 🌟 Featured Projects
+
+**ClinicalGPT** — AI-powered clinical assistant combining NLP and retrieval-based methods
+`ClinicalBERT` `Groq LLM` `Pinecone` `Whisper`
+
+**Skin Disease Prediction** — Computer vision model for classifying skin conditions from images
+`CNN` `Python`
+
+**Mental Health Prediction** — Classification model predicting outcomes from structured data
+`Logistic Regression` `Random Forest`
+
+**Social Media Dashboard** — Interactive dashboard visualizing social media data trends
+`Streamlit` `Pandas`
+
+---
 
 ## 📜 Certifications & Achievements
 
@@ -74,7 +94,37 @@
 - 🏅 Python, Data Analysis & Machine Learning Bootcamp Certifications
 - 🎤 Conducted Python workshops for student societies
 
-<br>
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SyedAliHassan1272&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAliHassan1272&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SyedAliHassan1272&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sayed-alihassan-naqvi" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+<a href="https://github.com/SyedAliHassan1272" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+<a href="mailto:syedalihassann081@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
